@@ -21,8 +21,7 @@ Fatigue status (1 for Yes, 0 for No)
 Sample Output:
 Enter Hemoglobin level (g/dL): 11.5  
 Are you feeling fatigue? (Yes = 1, No = 0): 1  
-Low hemoglobin  
-Possible anemia. Consult doctor.  
+Low hemoglobin but no fatigue 
 
 About the Project:
 This project is part of a simple medical logic series created using the C programming language. It helps beginners understand how to use conditional statements in real-life situations, such as checking for possible anemia.
